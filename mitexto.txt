@@ -1,2 +1,2 @@
-Master: Primera línea
 Master: Segunda línea
+brach1 modifica Master: Primera línea modificada.
